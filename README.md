@@ -1,3 +1,9 @@
 # Friendly Collab Party
 
-I want to teach this class full of scientists how to use GitHub.
+## Description of my project
+
+Hello everyone! This is the "Friendly Collab Party" folder. This project is used for the following purposes:
+
+- Learn about versions
+- Learn about collaboration
+- Work with github
